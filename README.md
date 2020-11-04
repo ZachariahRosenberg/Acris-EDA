@@ -2,7 +2,9 @@
 
 ![](./map_demo.gif)
 
-[Demo of app available at https://acris-lenders.netlify.app/](https://acris-lenders.netlify.app/)
+[Demo of map available at https://acris-lenders.netlify.app/](https://acris-lenders.netlify.app/)
+
+[View this notebook online with nb-viewer](https://nbviewer.jupyter.org/github/ZachariahRosenberg/Acris-EDA/blob/master/Acris%20EDA.ipynb)
 
 ## Background
 
@@ -17,4 +19,4 @@ This is an initial exploration of mortgage note holders in NYC with data from Ac
 
 This project is just beginning and will be updated as we progress.
 
-*If the github notebook viewer doesn't load, the notebook can be viewed via Jupyter's online [nbviewer: Acris-EDA](https://nbviewer.jupyter.org/github/ZachariahRosenberg/Acris-EDA/blob/master/Acris%20EDA.ipynb)*
+*This notebook can be viewed via Jupyter's online [nbviewer: Acris-EDA](https://nbviewer.jupyter.org/github/ZachariahRosenberg/Acris-EDA/blob/master/Acris%20EDA.ipynb)*
