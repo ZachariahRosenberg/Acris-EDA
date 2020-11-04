@@ -4,7 +4,7 @@
 
 [Demo of app available at https://acris-lenders.netlify.app/](https://acris-lenders.netlify.app/)
 
-## Backgound
+## Background
 
 July 2019, NY State Governor Cuomo announced a new plan to cut greenhouse gas emissions 40% by 2030, named [The Climate Leadership and Community Protection Act](https://climate.ny.gov/). 
 
@@ -16,3 +16,5 @@ This is an initial exploration of mortgage note holders in NYC with data from Ac
 
 
 This project is just beginning and will be updated as we progress.
+
+*If the github notebook viewer doesn't load, the notebook can be viewed via Jupyter's online [nbviewer: Acris-EDA](https://nbviewer.jupyter.org/github/ZachariahRosenberg/Acris-EDA/blob/master/Acris%20EDA.ipynb)*
